@@ -2,21 +2,31 @@
 A bot for welcoming new people
 =======================
 
-### Welcome to Kagglenoobs-Slack chat where you will find active members of the  Kaggle community.
+### Welcome to Kagglenoobs-Slack chat where you will find active members of the  [Kaggle](https://www.kaggle.com) community.
 
-## Channels index:
+## Channels index: 
 
-1. : #ama
+Feel free to change the markdown to the one you think looks best.
 
-2. #fastai
+1. : #ama: Interview someone special
+ex: 
 
-3: #general
+2. #fastai: join a learning group & ask questions about[fastai](fast.ai)
 
-4. ``#hardware``
+3: #general: If you're new, your first post should be"Hi, I am ***" post should be here, feel free to ask questions about Kaggle or 
 
-5: `#jobs`
+4. ``#hardware``: Need to buy a new pc? Have hardware questions, ask here.
 
-6: ```#lauraeudia```
+5: `#jobs`: Tired of your job, or need your very first job, ask questions here.
 
-#### 7: #meetup
+6: ```#lauraeudia```: Ask the worlds first AGI anything ML/DL or anything to be honest.
 
+#### 7: #meetup: Lets meet up irl, maybe you live near someone. 
+
+'news ': "mostly stuff that is not clickbait."
+
+``` papersplease ```` : weekly discussions about about state-of-the-art ML/DL. 
+
+### random: mostly funny or amusing
+
+### resources: Find something useful, share it with us.
