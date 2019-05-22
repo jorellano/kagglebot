@@ -1,3 +1,3 @@
-# kagglebot
-Bot for welcoming new people
+#             kagglebot:
+A bot for welcoming new people
 =======================
