@@ -77,4 +77,5 @@ Please refer to these articles for a detailed answer:
 Join `#jobs` channels for job postings.
 
 **5. Can I report Kaggle issues in the slack?**
+
 Yes. And if it something that is troubling others as well, please post it on [Kaggle product feedback](https://www.kaggle.com/product-feedback)
