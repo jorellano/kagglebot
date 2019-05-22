@@ -9,9 +9,7 @@ Welcome to Kagglenoobs-Slack chat where you will find active members of the  [Ka
 * [Nain](https://www.kaggle.com/aakashnain)
 
 
-# Channels and Guidelines:
-Guidelines are important for a good community. As the community grows, the need to define rules grows as well. We have come up with certain guidelines that all members of the KaggleNoobs slack should adhere to.  
-
+# Channels:
 
 1. **ama:** This channel is used for interviewing **Kaggle Grandmasters**. Once in a while, an interview with any of the grandmasters is conducted so that the community members can learn from their experiences. **Do not post anything in this channel.**
 
@@ -42,9 +40,14 @@ Guidelines are important for a good community. As the community grows, the need 
 
 11. **resources:** Found anything useful on the internet that can be helpful for the community? Feel free to share these things here. 
 
+# Guidelines
+Guidelines are important for a good community. As the community grows, the need to define rules grows as well. We have come up with certain guidelines that all members of the KaggleNoobs slack should adhere to.  
+
+
 # FAQs
 
 **1. I am a beginner in Data Science and Machine Learning. Where should I start?**
+
 There are ample resources that can get you started in data science and Machine Learning. For starters, check out:
   * [Kaggle learn](https://www.kaggle.com/learn/overview)
   * [Kaggle Kernels](https://www.kaggle.com/kernels)
@@ -52,3 +55,9 @@ There are ample resources that can get you started in data science and Machine L
   * [Andrew Ng's deep learning course](https://www.coursera.org/specializations/deep-learning?)
   * [CS231n](http://cs231n.stanford.edu/)
   * [CS229](http://cs229.stanford.edu/)
+
+**2. I have some queries regarding a competition. Can I ask it here?**
+
+Although a general discussion about a particular competition is always welcome in the *#general* channel, if there is some information that can affect the leaderboard or if it something that should have been shared with all the participants, please post that on the competition forums.
+
+**3. **
