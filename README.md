@@ -48,7 +48,7 @@ Guidelines are important for a good community. As the community grows, the need 
 There are ample resources that can get you started in data science and Machine Learning. For starters, check out:
   * [Kaggle learn](https://www.kaggle.com/learn/overview)
   * [Kaggle Kernels](https://www.kaggle.com/kernels)
-  * [Andrew Ng's machine learning course](https://www.coursera.org/learn/machine-learning)  *Don't do exercises for this*
+  * [Andrew Ng's machine learning course](https://www.coursera.org/learn/machine-learning)  (*Don't do assignments for this*)
   * [Andrew Ng's deep learning course](https://www.coursera.org/specializations/deep-learning?)
   * [CS231n](http://cs231n.stanford.edu/)
   * [CS229](http://cs229.stanford.edu/)
