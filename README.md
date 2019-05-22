@@ -8,11 +8,11 @@ Welcome to Kagglenoobs-Slack chat where you will find active members of the  [Ka
 * [Damien aka Laurae](https://www.kaggle.com/laurae2)
 * [Nain](https://www.kaggle.com/aakashnain)
 
-# Community Guidelines
+
+# Channels and Guidelines:
 Guidelines are important for a good community. As the community grows, the need to define rules grows as well. We have come up with certain guidelines that all members of the KaggleNoobs slack should adhere to.  
 
 
-# Channels: 
 1. **ama:** This channel is used for interviewing **Kaggle Grandmasters**. Once in a while, an interview with any of the grandmasters is conducted so that the community members can learn from their experiences. **Do not post anything in this channel.**
 
 2. **fastai:** This channel is mostly for those people who are interested in doing [fastai](fast.ai) courses. You can ask all your fastai related queries here. 
@@ -41,3 +41,14 @@ Guidelines are important for a good community. As the community grows, the need 
 10. **random:** As the name suggests, this channel is for random stuff. Feel free to post funny or any random stuff but it shouldn't be **offensive** in any manner. 
 
 11. **resources:** Found anything useful on the internet that can be helpful for the community? Feel free to share these things here. 
+
+# FAQs
+
+**1. I am a beginner in Data Science and Machine Learning. Where should I start?**
+There are ample resources that can get you started in data science and Machine Learning. For starters, check out:
+  * [Kaggle learn](https://www.kaggle.com/learn/overview)
+  * [Kaggle Kernels](https://www.kaggle.com/kernels)
+  * [Andrew Ng's machine learning course](https://www.coursera.org/learn/machine-learning)  *Don't do exercises for this*
+  * [Andrew Ng's deep learning course](https://www.coursera.org/specializations/deep-learning?)
+  * [CS231n](http://cs231n.stanford.edu/)
+  * [CS229](http://cs229.stanford.edu/)
