@@ -72,6 +72,7 @@ Please refer to these articles for a detailed answer:
    * [What really is Kaggle?](https://www.kaggle.com/getting-started/44916)
    
 **4. Can I find data science jobs on this slack?**
+
 Join `#jobs` channels for job postings.
 
 **5. Can I report Kaggle issues in the slack?**
