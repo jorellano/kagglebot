@@ -66,6 +66,7 @@ There are ample resources that can get you started in data science and Machine L
 Although a general discussion about a particular competition is always welcome in the *#general* channel, if there is some information that can affect the leaderboard or if it something that should have been shared with all the participants, please post that on the competition forums.
 
 **3. I am new to Kaggle and don't know how it works. Can you explain the different parts and how to make use of them?**
+
 Please refer to these articles for a detailed answer:
    * [What is Kaggle?](https://www.youtube.com/watch?v=Zm24Dzp1Z4o)
    * [Should you Kaggle?](https://medium.com/implodinggradients/should-you-kaggle-5b8dbdef442f) 
