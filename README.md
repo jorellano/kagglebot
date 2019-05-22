@@ -20,9 +20,9 @@ Welcome to Kagglenoobs-Slack chat where you will find active members of the  [Ka
     * Do not discuss anything related to a competition that effects leaderboard. Any such discussion is kind of cheating because people who are not on this slack don't have that information. Any such discussion should happen only on the competition discussion forums.
     * **Promotions** in #general are a big **NO**. If you think you have built something that can be helpful for the community, a one-time promotion is allowed in **#random**.
     * Keep discussion related to a query in a single **thread**. If you don't know about threads or how to create one, check [this](https://get.slack.help/hc/en-us/articles/115000769927-Message-and-file-threads) guide for the same.
-    * **Be humble.** If you are asking questions and someone is helping you out, make sure you take that help into account. Nobody would ever ask you for `Thank you` directly but if you don't, it feels that like you are taking the help for granted.
-    * Do not post **homework** or **assignments** in general until unless you have dug into the problem enough and looked for the solutions on the internet which didn't turn out helpful. 
-    * Do not post **offensive** things, be it verbal or pictorial. We take offensive things in a very serious manner and using one can lead to a permanent ban from the community.
+    * **Be humble.** If you are asking questions and someone is helping you out, make sure you take that help into account. Nobody would ever ask you for `Thank you` directly but if you don't, it feels like that you are taking the help for granted.
+    * Do not post **homework** or **assignments** in general until unless you have dug into the problem enough and looked for the solutions on the internet which didn't turn out to be helpful. 
+    * Do not post **offensive** things, be it verbal or pictorial. We take offensive things in a very serious manner and posting one can lead to a permanent ban from the community.
 
 4. **hardware:** Do you love hardware? Are you trying to build a new workstation? Are you confused about buying something base on performance? Ask all these hardware related queries here.
 
