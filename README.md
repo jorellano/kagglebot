@@ -17,7 +17,7 @@ Welcome to Kagglenoobs-Slack chat where you will find active members of the  [Ka
 
 3. **general:** This is the channel which is suited to general queries. The queries posted here can be anything related to Data Science or Machine Learning in general. There are certain things that you should be aware of when posting anything in this channel:
     * Do not post **Stack Overflow** questions here. Technical questions related to the functionalities of a library or something related to your code should be posted on Stack Overflow only.
-    * Do not discuss anything that related to a competition that effects leaderboard. Any such discussion is kind of cheating because people who are not on this slack don't have that information. Any such discussion should happen only on the competition discussion forums.
+    * Do not discuss anything related to a competition that effects leaderboard. Any such discussion is kind of cheating because people who are not on this slack don't have that information. Any such discussion should happen only on the competition discussion forums.
     * **Promotions** in #general are a big **NO**. If you think you have built something that can be helpful for the community, a one-time promotion is allowed in **#random**.
     * Keep discussion related to a query in a single **thread**. If you don't know about threads or how to create one, check [this](https://get.slack.help/hc/en-us/articles/115000769927-Message-and-file-threads) guide for the same.
     * **Be humble.** If you are asking questions and someone is helping you out, make sure you take that help into account. Nobody would ever ask you for `Thank you` directly but if you don't, it feels that like you are taking the help for granted.
