@@ -41,7 +41,12 @@ Welcome to Kagglenoobs-Slack chat where you will find active members of the  [Ka
 11. **resources:** Found anything useful on the internet that can be helpful for the community? Feel free to share these things here. 
 
 # Guidelines
-Guidelines are important for a good community. As the community grows, the need to define rules grows as well. We have come up with certain guidelines that all members of the KaggleNoobs slack should adhere to.  
+Guidelines are important for a good community. As the community grows, the need to define rules grows as well. We have come up with certain guidelines that all members of the KaggleNoobs slack should adhere to.
+   * Do not use **@here** and **@channel.** 
+   * Do not change the `purpose` of the channel. Whatever the admins have put there, it is fine and has been discussed upon.
+   * Do not use **offensive** language and refrain from sharing any visuals that aren't appropriate from the community perspective
+   * Do not spam by posting the same query in multiple channels or posting a query in an irrelevant channel.
+   * Read the FAQs first if you are new to the slack.
 
 
 # FAQs
@@ -60,4 +65,14 @@ There are ample resources that can get you started in data science and Machine L
 
 Although a general discussion about a particular competition is always welcome in the *#general* channel, if there is some information that can affect the leaderboard or if it something that should have been shared with all the participants, please post that on the competition forums.
 
-**3. **
+**3. I am new to Kaggle and don't know how it works. Can you explain the different parts and how to make use of them?**
+Please refer to these articles for a detailed answer:
+   * [What is Kaggle?](https://www.youtube.com/watch?v=Zm24Dzp1Z4o)
+   * [Should you Kaggle?](https://medium.com/implodinggradients/should-you-kaggle-5b8dbdef442f) 
+   * [What really is Kaggle?](https://www.kaggle.com/getting-started/44916)
+   
+**4. Can I find data science jobs on this slack?**
+Join `#jobs` channels for job postings.
+
+**5. Can I report Kaggle issues in the slack?**
+Yes. And if it something that is troubling others as well, please post it on [Kaggle product feedback](https://www.kaggle.com/product-feedback)
