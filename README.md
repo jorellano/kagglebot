@@ -61,6 +61,7 @@ There are ample resources that can get you started in data science and Machine L
   * [CS231n](http://cs231n.stanford.edu/) (Convolutional Neural Networks for Visual Recognition)
   * [CS229](http://cs229.stanford.edu/) (Machine Learning)
   * [CS224n](http://web.stanford.edu/class/cs224n/) (Natural Language Processing with Deep Learning)
+
 **2. I have some queries regarding a competition. Can I ask it here?**
 
 Although a general discussion about a particular competition is always welcome in the *#general* channel, if there is some information that can affect the leaderboard or if it is something that should have been shared with all the participants, please post that on the competition forums.
