@@ -59,8 +59,9 @@ There are ample resources that can get you started in data science and Machine L
   * [Fast.ai courses](https://course.fast.ai/)
   * [Andrew Ng's machine learning course](https://www.coursera.org/learn/machine-learning)  (*Don't do assignments for this*)
   * [Andrew Ng's deep learning course](https://www.coursera.org/specializations/deep-learning?)
-  * [CS231n](http://cs231n.stanford.edu/)
-  * [CS229](http://cs229.stanford.edu/)
+  * [CS231n](http://cs231n.stanford.edu/) (Convolutional Neural Networks for Visual Recognition)
+  * [CS229](http://cs229.stanford.edu/) (Machine Learning)
+  * [CS224n](http://web.stanford.edu/class/cs224n/) (Natural Language Processing with Deep Learning)
 
 **2. I have some queries regarding a competition. Can I ask it here?**
 
