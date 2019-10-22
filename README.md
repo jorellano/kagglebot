@@ -1,6 +1,7 @@
 #             kagglebot:
 A bot for welcoming new people
 =======================
+![alt text](https://raw.githubusercontent.com//kagglebot/branch/img/knoobs.png)
 
 ### Welcome to Kagglenoobs-Slack chat where you will find active members of the  [Kaggle](https://www.kaggle.com) community.
 
