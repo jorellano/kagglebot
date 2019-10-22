@@ -1,11 +1,11 @@
-<<<<<<< HEAD
+
 #             kagglebot:
 A bot for welcoming new people
 =======================
-![alt text](https://raw.githubusercontent.com//kagglebot/branch/img/knoobs.png)
+![alt text](https://github.com/jorellano/kagglebot/blob/master/img/knoobs.png)
 =======
 # kagglebot: A bot for welcoming new people
->>>>>>> a47466163d8c37622128ed09c1f6f26ad584a074
+
 
 
 
