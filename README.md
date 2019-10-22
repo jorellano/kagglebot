@@ -1,10 +1,9 @@
 
-#             kagglebot:
-A bot for welcoming new people
+# kagglebot: A bot for welcoming new people
 =======================
 ![alt text](https://github.com/jorellano/kagglebot/blob/master/img/knoobs.png)
 =======
-# kagglebot: A bot for welcoming new people
+
 
 
 
